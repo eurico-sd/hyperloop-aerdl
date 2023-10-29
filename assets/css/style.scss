@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-a.navbar-brand h1.page-heading {
+a.navbar-brand, .page-heading h1 {
   font-style: italic;
 }
