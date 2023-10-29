@@ -1,0 +1,9 @@
+# Site settings
+title: Hyperloop
+author:
+  name: Eurico Serradas
+  email: 5371@aerdl.eu
+description: "O futuro dos transportes"
+
+# Build settings
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
